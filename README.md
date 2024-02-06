@@ -14,4 +14,4 @@
 
 ## Developers
 
-- [Хакимова Диля](https://github.com/eexxiist)https://github.com/eexxiist)
+- [Хакимова Диля](https://github.com/eexxiist)
